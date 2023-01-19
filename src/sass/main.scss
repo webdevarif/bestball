@@ -1,0 +1,16 @@
+@import "~bootstrap/scss/bootstrap";
+
+canvas {
+  width: 100%;
+  height: 100%;
+}
+ 
+.section{
+  height: 100vh !important;
+
+}
+
+.hero-canvas{
+  position: fixed;
+  top: 0;
+}
